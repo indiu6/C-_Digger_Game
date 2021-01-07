@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/hewas/Desktop/프젝 공유/v1.0.0/Digger/Digger/Content/regularFont.spritefont</SourceFile>
+  <SourceTime>2020-12-09T23:07:26-05:00</SourceTime>
+  <DestFile>C:/Users/hewas/Desktop/프젝 공유/v1.0.0/Digger/Digger/Content/bin/Windows/Content/regularFont.xnb</DestFile>
+  <DestTime>2020-12-21T23:21:00.5949613-05:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2018-12-08T11:35:54-05:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2018-12-08T11:35:54-05:00</ProcessorTime>
+  <Parameters>
+    <Key>PremultiplyAlpha</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>
