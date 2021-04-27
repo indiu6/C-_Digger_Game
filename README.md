@@ -2,3 +2,4 @@
 Cloning Digger Game built with MonoGame, College Group(2) Project
 
 ## Install, and Enjoy!
+Download EXE file
